@@ -1,7 +1,8 @@
 ### 一个React项目
 
 ##### 主要技术栈
-React,react-route-dom
+
+<font size=12>React,react-route-dom</font>
 
 redux,react-redux  
 
